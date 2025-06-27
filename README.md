@@ -1,4 +1,4 @@
-# DockerFile-Configs
+# WEB-KIT
 
 ## This repository will be used for standar files that are used in web projects. 
 
